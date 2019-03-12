@@ -1,0 +1,8 @@
+
+plugins {
+	id "com.palantir.docker" version "0.21.0"
+	}
+	
+docker {
+	name 'psql-image'
+	}
